@@ -4,7 +4,7 @@
 
 ### Q1: What shell command is used to create files?
 - A: make
-- B: touch
+- **B: touch**
 - C: mkf
 - D: file
 
@@ -12,38 +12,38 @@
 - A: mvdir
 - B: mv
 - C: md
-- D: cd
+- **D: cd**
 
 ### Q3: What git command is used to get the version installed in the machine?
-- A: git --version
+- **A: git --version**
 - B: git version
 - C: git -v
 - D: git -version
 
 ### Q4: What is the difference between cloning and forking?
 - A: Cloning creates a copy of the remote repository from another remote repository, Forking creates a local repository from a remote repository.
-- B: Forking creates a copy of the remote repository from another remote repository, Cloning creates a local repository from a remote repository.
+- **B: Forking creates a copy of the remote repository from another remote repository, Cloning creates a local repository from a remote repository.**
 - C: Cloning and forking are the same and can be interchanged.
 - D: Cloning does not push to your remote repository, forking does.
 
 ### Q5: All browsers have Developer tools.
 - A: True
-- B: False
+- **B: False**
 
 ### Q6: Which of the following can be used to open Chrome’s developer tool?
 - A: Ctrl + Shift + I
 - B: F12 key
 - C: Right-click the browser window and select “Inspect”
-- D: All of the above
+- **D: All of the above**
 
 ### Q7: What does IDE stand for?
 - A: Interdependent development environment
-- B: Integrated development environment
+- **B: Integrated development environment**
 - C: Interdependent developer emulator
 - D: Integrated developer emulator
 
 ### Q8: Is Visual Studio Code an example of an IDE?
-- A: True
+- **A: True**
 - B: False
 
 ### Q9: What is the tool for managing Node versions on devices?
