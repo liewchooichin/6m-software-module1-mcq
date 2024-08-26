@@ -49,17 +49,17 @@
 ### Q9: What is the tool for managing Node versions on devices?
 - A: npm
 - B: node
-- C: nvm
+- **C: nvm**
 - D: nvp
 
 ### Q10: What is the tool for managing packages for node projects?
-- A: npm
+- **A: npm**
 - B: node
 - C: nvm
 - D: nvp
 
 ### Q11: Which of the following statements is false?
-- A: Processes and Tools are as agile as human beings.
+- **A: Processes and Tools are as agile as human beings.**
 - B: Intuitive software is better than excessive documentation.
 - C: Collaboration ensures product development is aligned with end users' requirements.
 - D: None of the mentioned
@@ -68,34 +68,35 @@
 - A: Scrum
 - B: Kanban
 - C: Lean
-- D: None of the above
+- **D: None of the above**
 
 ### Q13: Which SCRUM event focuses on how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done?
 - A: Sprint Planning
 - B: Daily Scrum
 - C: Sprint Review
-- D: Sprint Retrospective
+- **D: Sprint Retrospective**
 
 ### Q14: Which SCRUM event focuses on inspecting progress toward the Sprint Goal and adjusting the upcoming planned work as necessary?
 - A: Sprint Planning
-- B: Daily Scrum
+- **B: Daily Scrum**
 - C: Sprint Review
 - D: Sprint Retrospective
+- Ref: https://www.scrum.org/learning-series/what-is-scrum/the-scrum-events/what-is-a-daily-scrum
 
 ### Q15: Which member of the Scrum team is accountable for effective Product Backlog management?
 - A: Scrum Master
-- B: Product Owner
+- **B: Product Owner**
 - C: Developer team
 - D: Everyone in the team
 
 ### Q16: Which member of the Scrum team is responsible for helping everyone understand Scrum theory and practice?
-- A: Scrum Master
+- **A: Scrum Master**
 - B: Product Owner
 - C: Developer team
 - D: Everyone in the team
 
 ### Q17: What test deals with isolation testing of the smallest piece of logic?
-- A: Unit testing
+- **A: Unit testing**
 - B: Integration testing
 - C: Acceptance testing
 - D: Regression testing
@@ -104,14 +105,14 @@
 - A: Unit testing
 - B: Integration testing
 - C: Acceptance testing
-- D: Regression testing
+- **D: Regression testing**
 
 ### Q19: What test determines the peak load and/or how many requests can the system receive.
 - A: Load testing
-- B: Stress testing
+- **B: Stress testing**
 - C: Endurance testing
 - D: Pressure testing 
 
 ### Q20: It is best practice to test in the production environment.
 - A: True
-- B: False
+- **B: False**
